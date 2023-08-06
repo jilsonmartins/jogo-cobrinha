@@ -13,4 +13,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Este projeto tem como finalidade treinar e colocar em prática as tecnlogias acima citadas. Habilidades adquiridas no bootcamp de desednvolvimento web na plataforma [Dio.me](https://www.dio.me/)  🎮🕹💻
+Este projeto tem como finalidade treinar e colocar em prática as tecnlogias acima citadas. Habilidades adquiridas no bootcamp de desenvolvimento web na plataforma [Dio.me](https://www.dio.me/)  🎮🕹💻
